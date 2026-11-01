@@ -10,12 +10,12 @@ Linux, Python 3, GNU time, taskset, CMake and a C++ compiler are required. Build
 git clone https://github.com/msuadOf/z3.git z3-a
 git -C z3-a checkout 953e43301f406bbf41cf1ae8e600641345a8823b
 cmake -S z3-a -B z3-a/build -DCMAKE_BUILD_TYPE=Release
-cmake --build z3-a/build --target z3 -j 24
+cmake --build z3-a/build --target shell -j 24
 
 git clone https://github.com/msuadOf/z3.git z3-b
 git -C z3-b checkout ae64857b47ed6123c034c825e4b4dcb930e75b81
 cmake -S z3-b -B z3-b/build -DCMAKE_BUILD_TYPE=Release
-cmake --build z3-b/build --target z3 -j 24
+cmake --build z3-b/build --target shell -j 24
 ```
 
 From this material directory, run the suites (output directories must not already exist):
