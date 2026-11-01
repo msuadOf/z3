@@ -1,0 +1,101 @@
+name: Fork binary release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'cmake/**'
+      - 'CMakeLists.txt'
+      - 'scripts/fork_binary_release.py'
+      - '.github/workflows/fork-binaries.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fork-binaries-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.repository == 'msuadOf/z3' && github.ref == 'refs/heads/main'
+    name: Build ${{ matrix.platform }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - platform: linux-x64
+            runner: ubuntu-24.04
+          - platform: linux-arm64
+            runner: ubuntu-24.04-arm
+          - platform: macos-x64
+            runner: macos-15-intel
+          - platform: macos-arm64
+            runner: macos-15
+          - platform: windows-x64
+            runner: windows-2022
+    runs-on: ${{ matrix.runner }}
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Build, test and package
+        run: python scripts/fork_binary_release.py --platform ${{ matrix.platform }}
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: z3-${{ matrix.platform }}
+          path: dist/*
+          if-no-files-found: error
+          retention-days: 30
+
+  publish:
+    name: Publish precompiled packages
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          pattern: z3-*
+          merge-multiple: true
+          path: dist
+      - name: Publish release for this source revision
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          SOURCE_SHA: ${{ github.sha }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          cd dist
+          sha256sum -c ./*.sha256
+          assets=(./*.tar.gz ./*.zip ./*.sha256)
+          tag="fork-${SOURCE_SHA:0:12}"
+          cat > ../release-notes.md <<EOF
+          Precompiled native Z3 packages from source commit ${SOURCE_SHA}.
+
+          Includes the fork's finite-enum preprocessing strategy (alternative A).
+          Packages contain the command-line solver, shared library, C/C++ headers,
+          CMake/pkg-config integration, license and build provenance.
+
+          Linux packages are built on Ubuntu 24.04; macOS packages target macOS 13.3+.
+          Windows x64 requires the Microsoft Visual C++ 2015–2022 x64 runtime.
+          Each package passed the fpa test group and a relocated archive smoke test.
+          Verify the accompanying SHA256 file before installing.
+
+          Build logs: ${RUN_URL}
+          EOF
+          if gh release view "$tag" > /dev/null 2>&1; then
+            gh release upload "$tag" "${assets[@]}" --clobber
+          else
+            gh release create "$tag" "${assets[@]}" \
+              --target "$SOURCE_SHA" --title "Z3 fork ${SOURCE_SHA:0:12}" \
+              --notes-file ../release-notes.md --latest
+          fi
