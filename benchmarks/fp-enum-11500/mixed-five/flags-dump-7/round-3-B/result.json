@@ -1,0 +1,42 @@
+{
+  "case": "flags-dump-7",
+  "variant": "B",
+  "round": 3,
+  "cpu": 37,
+  "command": [
+    "/usr/bin/time",
+    "-f",
+    "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+    "-o",
+    "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-3-B/time.json",
+    "taskset",
+    "-c",
+    "37",
+    "agents/branch_ablation_20261031/z3-alternative-prs/B/z3",
+    "-t:7200000",
+    "-in"
+  ],
+  "started_utc": "2026-11-01T04:20:59.931403+00:00",
+  "load_start": [
+    15.576171875,
+    30.638671875,
+    35.91845703125
+  ],
+  "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+  "wall_s": 41.3781260640244,
+  "exit": 0,
+  "external_timeout": false,
+  "ended_utc": "2026-11-01T04:21:41.309545+00:00",
+  "load_end": [
+    12.82080078125,
+    27.76220703125,
+    34.69140625
+  ],
+  "statuses": [
+    "sat"
+  ],
+  "pass": true,
+  "user_s": 40.83,
+  "sys_s": 0.47,
+  "max_rss_kib": 341612
+}

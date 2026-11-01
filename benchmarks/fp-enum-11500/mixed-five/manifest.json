@@ -1,0 +1,88 @@
+{
+  "started_utc": "2026-11-01T04:18:47.050699+00:00",
+  "pid": 3599293,
+  "variants": {
+    "A": {
+      "commit": "953e43301f406bbf41cf1ae8e600641345a8823b",
+      "base": "8fbb275aba0472e862e289c7af1331b3bd5d512c",
+      "branch": "fix/default-finite-enum-preamble",
+      "files": [
+        "src/tactic/portfolio/default_tactic.cpp",
+        "src/test/fpa.cpp"
+      ],
+      "hashes": {
+        "z3": "daaad0a603c923701f0c79f3604c46b1bc132854459d71b315e78753e492842b",
+        "libz3.so": "7ef0edf377799ab3e5ca455b965e29af65909eb98e9d7f655cbad2e024835486",
+        "test-z3": "54ad61777b6930ea3a213a5b54ed20555c382b9331b98c84691692b0d5b9eb62"
+      },
+      "fpa_exit": 0
+    },
+    "B": {
+      "commit": "ae64857b47ed6123c034c825e4b4dcb930e75b81",
+      "base": "8fbb275aba0472e862e289c7af1331b3bd5d512c",
+      "branch": "fix/default-fp-enum-direct",
+      "files": [
+        "src/tactic/fpa/qffp_tactic.cpp",
+        "src/tactic/fpa/qffp_tactic.h",
+        "src/tactic/portfolio/default_tactic.cpp",
+        "src/test/fpa.cpp"
+      ],
+      "hashes": {
+        "z3": "a881ecaad2ddcce34ded275ce007eb49b5d0975f94dedb14555b034bef0d4663",
+        "libz3.so": "160392cb9bfd6e55ed0065762880f8f21d6d90e40d235b4e6ece475b629b4880",
+        "test-z3": "c4b3625474f5ccfa3b2c6dab2b52628f6cafb58ca8f7c577c2f793611b5e8284"
+      },
+      "fpa_exit": 0
+    }
+  },
+  "cases": {
+    "nan": {
+      "cpu": 33,
+      "sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7"
+    },
+    "flags": {
+      "cpu": 47,
+      "sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c"
+    },
+    "minimal": {
+      "cpu": 49,
+      "sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d"
+    },
+    "enum-6-256": {
+      "cpu": 52,
+      "sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863"
+    },
+    "enum-512-256": {
+      "cpu": 56,
+      "sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda"
+    },
+    "enum-1024-256": {
+      "cpu": 60,
+      "sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460"
+    },
+    "flags-dump-7": {
+      "cpu": 37,
+      "sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14"
+    },
+    "flags-dump-11": {
+      "cpu": 17,
+      "sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0"
+    }
+  },
+  "order": [
+    "AB",
+    "BA",
+    "AB",
+    "BA",
+    "AB"
+  ],
+  "smt_budget_ms": 7200000,
+  "outer_budget_s": 7210,
+  "warmup_runs": 0,
+  "cpu_topology": "# The following is the parsable format, which can be fed to other\n# programs. Each different item in every column has an unique ID\n# starting usually from zero.\n# CPU,Core,Socket,Online\n0,0,0,Y\n1,1,0,Y\n2,2,0,Y\n3,3,0,Y\n4,4,0,Y\n5,5,0,Y\n6,6,0,Y\n7,7,0,Y\n8,8,0,Y\n9,9,0,Y\n10,10,0,Y\n11,11,0,Y\n12,12,0,Y\n13,13,0,Y\n14,14,0,Y\n15,15,0,Y\n16,16,0,Y\n17,17,0,Y\n18,18,0,Y\n19,19,0,Y\n20,20,0,Y\n21,21,0,Y\n22,22,0,Y\n23,23,0,Y\n24,24,0,Y\n25,25,0,Y\n26,26,0,Y\n27,27,0,Y\n28,28,0,Y\n29,29,0,Y\n30,30,0,Y\n31,31,0,Y\n32,32,1,Y\n33,33,1,Y\n34,34,1,Y\n35,35,1,Y\n36,36,1,Y\n37,37,1,Y\n38,38,1,Y\n39,39,1,Y\n40,40,1,Y\n41,41,1,Y\n42,42,1,Y\n43,43,1,Y\n44,44,1,Y\n45,45,1,Y\n46,46,1,Y\n47,47,1,Y\n48,48,1,Y\n49,49,1,Y\n50,50,1,Y\n51,51,1,Y\n52,52,1,Y\n53,53,1,Y\n54,54,1,Y\n55,55,1,Y\n56,56,1,Y\n57,57,1,Y\n58,58,1,Y\n59,59,1,Y\n60,60,1,Y\n61,61,1,Y\n62,62,1,Y\n63,63,1,Y\n64,0,0,Y\n65,1,0,Y\n66,2,0,Y\n67,3,0,Y\n68,4,0,Y\n69,5,0,Y\n70,6,0,Y\n71,7,0,Y\n72,8,0,Y\n73,9,0,Y\n74,10,0,Y\n75,11,0,Y\n76,12,0,Y\n77,13,0,Y\n78,14,0,Y\n79,15,0,Y\n80,16,0,Y\n81,17,0,Y\n82,18,0,Y\n83,19,0,Y\n84,20,0,Y\n85,21,0,Y\n86,22,0,Y\n87,23,0,Y\n88,24,0,Y\n89,25,0,Y\n90,26,0,Y\n91,27,0,Y\n92,28,0,Y\n93,29,0,Y\n94,30,0,Y\n95,31,0,Y\n96,32,1,Y\n97,33,1,Y\n98,34,1,Y\n99,35,1,Y\n100,36,1,Y\n101,37,1,Y\n102,38,1,Y\n103,39,1,Y\n104,40,1,Y\n105,41,1,Y\n106,42,1,Y\n107,43,1,Y\n108,44,1,Y\n109,45,1,Y\n110,46,1,Y\n111,47,1,Y\n112,48,1,Y\n113,49,1,Y\n114,50,1,Y\n115,51,1,Y\n116,52,1,Y\n117,53,1,Y\n118,54,1,Y\n119,55,1,Y\n120,56,1,Y\n121,57,1,Y\n122,58,1,Y\n123,59,1,Y\n124,60,1,Y\n125,61,1,Y\n126,62,1,Y\n127,63,1,Y\n",
+  "load_start": [
+    39.04638671875,
+    39.01708984375,
+    38.9404296875
+  ]
+}

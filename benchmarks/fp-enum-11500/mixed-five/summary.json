@@ -1,0 +1,3946 @@
+{
+  "updated_utc": "2026-11-01T04:30:03.771934+00:00",
+  "completed": 80,
+  "total": 80,
+  "all_pass": true,
+  "cases": {
+    "nan": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.22660978900967166,
+          0.14548775798175484,
+          0.14454490400385112,
+          0.14563586103031412,
+          0.1530933830072172
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.14563586103031412,
+        "mean_s": 0.1630743390065618,
+        "range_s": [
+          0.14454490400385112,
+          0.22660978900967166
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.3918697609915398,
+          0.41577097098343074,
+          0.23225319798802957,
+          0.23403222498018295,
+          0.2356291189789772
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.2356291189789772,
+        "mean_s": 0.30191105478443203,
+        "range_s": [
+          0.23225319798802957,
+          0.41577097098343074
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 1.6179333669056344
+    },
+    "flags": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          13.67266290698899,
+          6.592428630043287,
+          6.446936841006391,
+          6.142849478987046,
+          6.113424795970786
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 6.446936841006391,
+        "mean_s": 7.7936605305993,
+        "range_s": [
+          6.113424795970786,
+          13.67266290698899
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          26.126993443001993,
+          16.006669913011137,
+          15.438219956005923,
+          15.484196118020918,
+          15.339276009995956
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 15.484196118020918,
+        "mean_s": 17.679071088007184,
+        "range_s": [
+          15.339276009995956,
+          26.126993443001993
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 2.4017911916760424
+    },
+    "minimal": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          1.137943709967658,
+          0.6824731700471602,
+          0.3524913979927078,
+          0.31799619598314166,
+          0.336291442043148
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.3524913979927078,
+        "mean_s": 0.5654391832067631,
+        "range_s": [
+          0.31799619598314166,
+          1.137943709967658
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.6612016819999553,
+          0.7002705499762669,
+          0.21351507701911032,
+          0.2088244300102815,
+          0.1923713160213083
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.21351507701911032,
+        "mean_s": 0.3952366110053845,
+        "range_s": [
+          0.1923713160213083,
+          0.7002705499762669
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 0.6057313121256009
+    },
+    "enum-6-256": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.1949180510127917,
+          0.15715123002883047,
+          0.1477050919784233,
+          0.16364834102569148,
+          0.18621604301733896
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.16364834102569148,
+        "mean_s": 0.16992775141261518,
+        "range_s": [
+          0.1477050919784233,
+          0.1949180510127917
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.11225517996354029,
+          0.09847140504280105,
+          0.11984425998525694,
+          0.1198258229997009,
+          0.12408340099500492
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.1198258229997009,
+        "mean_s": 0.11489601379726082,
+        "range_s": [
+          0.09847140504280105,
+          0.12408340099500492
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 0.7322153237159258
+    },
+    "enum-512-256": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.8923805869999342,
+          0.5945524129783735,
+          0.5551779249799438,
+          0.5343121169717051,
+          0.6053790159639902
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.5945524129783735,
+        "mean_s": 0.6363604115787893,
+        "range_s": [
+          0.5343121169717051,
+          0.8923805869999342
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.09021377499448135,
+          0.08984277298441157,
+          0.05074157699709758,
+          0.05634129903046414,
+          0.06756479799514636
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.06756479799514636,
+        "mean_s": 0.0709408444003202,
+        "range_s": [
+          0.05074157699709758,
+          0.09021377499448135
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 0.11363976752980397
+    },
+    "enum-1024-256": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          1.2710870580049232,
+          1.2632321109995246,
+          1.3062597410171293,
+          1.1757302289479412,
+          1.168004171049688
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 1.2632321109995246,
+        "mean_s": 1.2368626620038412,
+        "range_s": [
+          1.168004171049688,
+          1.3062597410171293
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.05866818700451404,
+          0.0623015119927004,
+          0.05522294802358374,
+          0.0504310880205594,
+          0.05018333101179451
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.05522294802358374,
+        "mean_s": 0.055361413210630414,
+        "range_s": [
+          0.05018333101179451,
+          0.0623015119927004
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 0.04371559869538855
+    },
+    "flags-dump-7": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          12.249186072964221,
+          6.301406037004199,
+          6.4073436739854515,
+          6.226929933996871,
+          6.281063073023688
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 6.301406037004199,
+        "mean_s": 7.493185758194886,
+        "range_s": [
+          6.226929933996871,
+          12.249186072964221
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          66.42325486399932,
+          41.42272628296632,
+          41.3781260640244,
+          41.2931871030014,
+          234.4996287850081
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 41.42272628296632,
+        "mean_s": 85.0033846197999,
+        "range_s": [
+          41.2931871030014,
+          234.4996287850081
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 6.57356882570599
+    },
+    "flags-dump-11": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          2.485247073986102,
+          1.7521595019497909,
+          1.732408621988725,
+          1.8328899750486016,
+          1.8836966120288707
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 1.8328899750486016,
+        "mean_s": 1.937280357000418,
+        "range_s": [
+          1.732408621988725,
+          2.485247073986102
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          91.63943276304053,
+          85.69616125896573,
+          129.27869159303373,
+          241.2419569939957,
+          119.07848893100163
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 119.07848893100163,
+        "mean_s": 133.38694630800745,
+        "range_s": [
+          85.69616125896573,
+          241.2419569939957
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 64.96761428783749
+    }
+  },
+  "runs": [
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 1,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.110818+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.1949180510127917,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:47.305752+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.05,
+      "sys_s": 0.11,
+      "max_rss_kib": 44180
+    },
+    {
+      "case": "nan",
+      "variant": "A",
+      "round": 1,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.109592+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.22660978900967166,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:47.336264+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.16,
+      "sys_s": 0.04,
+      "max_rss_kib": 51332
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 1,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.308084+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.11225517996354029,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:47.420369+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.08,
+      "max_rss_kib": 39084
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 2,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.422857+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.09847140504280105,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:47.521353+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.06,
+      "max_rss_kib": 39000
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 2,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.523608+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.15715123002883047,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:47.680786+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.05,
+      "sys_s": 0.1,
+      "max_rss_kib": 44192
+    },
+    {
+      "case": "nan",
+      "variant": "B",
+      "round": 1,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.339045+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.3918697609915398,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:47.730946+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.33,
+      "sys_s": 0.04,
+      "max_rss_kib": 48304
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 3,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.683544+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.1477050919784233,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:47.831285+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.03,
+      "sys_s": 0.1,
+      "max_rss_kib": 44156
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 3,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.834256+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.11984425998525694,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:47.954139+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.09,
+      "max_rss_kib": 39016
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "A",
+      "round": 1,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.111290+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.8923805869999342,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.003692+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.62,
+      "sys_s": 0.25,
+      "max_rss_kib": 135940
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 4,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.956860+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.1198258229997009,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.076774+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.03,
+      "sys_s": 0.08,
+      "max_rss_kib": 39036
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "B",
+      "round": 1,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.006561+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.09021377499448135,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.096801+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.03,
+      "sys_s": 0.05,
+      "max_rss_kib": 40096
+    },
+    {
+      "case": "nan",
+      "variant": "B",
+      "round": 2,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.733874+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.41577097098343074,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.149672+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.36,
+      "sys_s": 0.04,
+      "max_rss_kib": 48280
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "B",
+      "round": 2,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.099423+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.08984277298441157,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.189288+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.03,
+      "sys_s": 0.05,
+      "max_rss_kib": 41108
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 4,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.080236+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.16364834102569148,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.243938+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.04,
+      "sys_s": 0.11,
+      "max_rss_kib": 44144
+    },
+    {
+      "case": "minimal",
+      "variant": "A",
+      "round": 1,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.110525+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 1.137943709967658,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.248485+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.88,
+      "sys_s": 0.23,
+      "max_rss_kib": 48292
+    },
+    {
+      "case": "nan",
+      "variant": "A",
+      "round": 2,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.152252+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.14548775798175484,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.297761+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.09,
+      "sys_s": 0.04,
+      "max_rss_kib": 51372
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "A",
+      "round": 1,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.111891+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 1.2710870580049232,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.383020+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.82,
+      "sys_s": 0.4,
+      "max_rss_kib": 253740
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 5,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.246669+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.18621604301733896,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.432919+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.05,
+      "sys_s": 0.12,
+      "max_rss_kib": 44156
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "B",
+      "round": 1,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.387139+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 0.05866818700451404,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.445846+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 42112
+    },
+    {
+      "case": "nan",
+      "variant": "A",
+      "round": 3,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.301679+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.14454490400385112,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.446266+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.1,
+      "sys_s": 0.03,
+      "max_rss_kib": 51312
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "B",
+      "round": 2,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.451698+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 0.0623015119927004,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.514053+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 41272
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 5,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-6-256/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.436540+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.12408340099500492,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.560660+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.09,
+      "max_rss_kib": 39040
+    },
+    {
+      "case": "nan",
+      "variant": "B",
+      "round": 3,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.454397+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.23225319798802957,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.686719+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.19,
+      "sys_s": 0.02,
+      "max_rss_kib": 48300
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "A",
+      "round": 2,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.191871+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.5945524129783735,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.786449+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.4,
+      "sys_s": 0.18,
+      "max_rss_kib": 136608
+    },
+    {
+      "case": "minimal",
+      "variant": "B",
+      "round": 1,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.251738+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.6612016819999553,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.912959+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.45,
+      "sys_s": 0.19,
+      "max_rss_kib": 43188
+    },
+    {
+      "case": "nan",
+      "variant": "B",
+      "round": 4,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.690631+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.23403222498018295,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:48.924706+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.19,
+      "sys_s": 0.03,
+      "max_rss_kib": 48432
+    },
+    {
+      "case": "nan",
+      "variant": "A",
+      "round": 4,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.928241+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.14563586103031412,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.073910+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.09,
+      "sys_s": 0.04,
+      "max_rss_kib": 51380
+    },
+    {
+      "case": "nan",
+      "variant": "A",
+      "round": 5,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:49.078024+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.1530933830072172,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.231185+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.1,
+      "sys_s": 0.04,
+      "max_rss_kib": 51400
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "A",
+      "round": 3,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.790447+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.5551779249799438,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.345659+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.37,
+      "sys_s": 0.17,
+      "max_rss_kib": 136632
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "B",
+      "round": 3,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:49.350294+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.05074157699709758,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.401074+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 41096
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "B",
+      "round": 4,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:49.404544+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.05634129903046414,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.460921+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 41084
+    },
+    {
+      "case": "nan",
+      "variant": "B",
+      "round": 5,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/nan/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:49.235814+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7",
+      "wall_s": 0.2356291189789772,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.471499+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.19,
+      "sys_s": 0.03,
+      "max_rss_kib": 47304
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "A",
+      "round": 1,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.113039+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 2.485247073986102,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.598307+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 2.12,
+      "sys_s": 0.35,
+      "max_rss_kib": 393264
+    },
+    {
+      "case": "minimal",
+      "variant": "B",
+      "round": 2,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.916387+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.7002705499762669,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.616677+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.48,
+      "sys_s": 0.2,
+      "max_rss_kib": 43152
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "A",
+      "round": 2,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:48.518324+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 1.2632321109995246,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.781604+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.82,
+      "sys_s": 0.42,
+      "max_rss_kib": 253680
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "A",
+      "round": 4,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:49.463824+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.5343121169717051,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:49.998164+00:00",
+      "load_end": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.37,
+      "sys_s": 0.15,
+      "max_rss_kib": 136596
+    },
+    {
+      "case": "minimal",
+      "variant": "A",
+      "round": 2,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:49.619897+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.6824731700471602,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:50.302393+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.44,
+      "sys_s": 0.23,
+      "max_rss_kib": 48268
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "A",
+      "round": 5,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:50.003147+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.6053790159639902,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:50.608564+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.39,
+      "sys_s": 0.2,
+      "max_rss_kib": 136660
+    },
+    {
+      "case": "minimal",
+      "variant": "A",
+      "round": 3,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:50.306423+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.3524913979927078,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:50.658961+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.19,
+      "sys_s": 0.14,
+      "max_rss_kib": 48276
+    },
+    {
+      "case": "enum-512-256",
+      "variant": "B",
+      "round": 5,
+      "cpu": 56,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-512-256/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "56",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:50.613068+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+      "wall_s": 0.06756479799514636,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:50.680670+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.04,
+      "max_rss_kib": 41080
+    },
+    {
+      "case": "minimal",
+      "variant": "B",
+      "round": 3,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:50.664407+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.21351507701911032,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:50.877962+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.1,
+      "sys_s": 0.1,
+      "max_rss_kib": 42168
+    },
+    {
+      "case": "minimal",
+      "variant": "B",
+      "round": 4,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:50.882192+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.2088244300102815,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:51.091056+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.11,
+      "sys_s": 0.09,
+      "max_rss_kib": 42172
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "A",
+      "round": 3,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:49.787098+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 1.3062597410171293,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:51.093388+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.86,
+      "sys_s": 0.43,
+      "max_rss_kib": 253704
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "B",
+      "round": 3,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:51.098191+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 0.05522294802358374,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:51.153448+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 41100
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "B",
+      "round": 4,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:51.158340+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 0.0504310880205594,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:51.208813+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 42120
+    },
+    {
+      "case": "minimal",
+      "variant": "A",
+      "round": 4,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:51.096067+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.31799619598314166,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:51.414098+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.18,
+      "sys_s": 0.12,
+      "max_rss_kib": 48292
+    },
+    {
+      "case": "minimal",
+      "variant": "A",
+      "round": 5,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:51.418584+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.336291442043148,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:51.754911+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.19,
+      "sys_s": 0.13,
+      "max_rss_kib": 48312
+    },
+    {
+      "case": "minimal",
+      "variant": "B",
+      "round": 5,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:51.759640+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+      "wall_s": 0.1923713160213083,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:51.952054+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.1,
+      "sys_s": 0.08,
+      "max_rss_kib": 43112
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "A",
+      "round": 4,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:51.213735+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 1.1757302289479412,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:52.389506+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.81,
+      "sys_s": 0.35,
+      "max_rss_kib": 253732
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "A",
+      "round": 5,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:52.394421+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 1.168004171049688,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:53.562464+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.79,
+      "sys_s": 0.36,
+      "max_rss_kib": 253696
+    },
+    {
+      "case": "enum-1024-256",
+      "variant": "B",
+      "round": 5,
+      "cpu": 60,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/enum-1024-256/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "60",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:53.566595+00:00",
+      "load_start": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "query_sha256": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+      "wall_s": 0.05018333101179451,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:53.616807+00:00",
+      "load_end": [
+        38.40185546875,
+        38.8837890625,
+        38.8974609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 42108
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "A",
+      "round": 1,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.112123+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 12.249186072964221,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:18:59.361327+00:00",
+      "load_end": [
+        37.72900390625,
+        38.73583984375,
+        38.849609375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 11.39,
+      "sys_s": 0.82,
+      "max_rss_kib": 471536
+    },
+    {
+      "case": "flags",
+      "variant": "A",
+      "round": 1,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:47.109990+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 13.67266290698899,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:19:00.782676+00:00",
+      "load_end": [
+        36.78955078125,
+        38.52392578125,
+        38.7802734375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 12.73,
+      "sys_s": 0.9,
+      "max_rss_kib": 472548
+    },
+    {
+      "case": "flags",
+      "variant": "B",
+      "round": 1,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:19:00.786875+00:00",
+      "load_start": [
+        36.78955078125,
+        38.52392578125,
+        38.7802734375
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 26.126993443001993,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:19:26.913894+00:00",
+      "load_end": [
+        32.04931640625,
+        37.27490234375,
+        38.3603515625
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 25.42,
+      "sys_s": 0.65,
+      "max_rss_kib": 343668
+    },
+    {
+      "case": "flags",
+      "variant": "B",
+      "round": 2,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:19:26.917925+00:00",
+      "load_start": [
+        32.04931640625,
+        37.27490234375,
+        38.3603515625
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 16.006669913011137,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:19:42.924623+00:00",
+      "load_end": [
+        29.39111328125,
+        36.42822265625,
+        38.06591796875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 15.55,
+      "sys_s": 0.43,
+      "max_rss_kib": 343640
+    },
+    {
+      "case": "flags",
+      "variant": "A",
+      "round": 2,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:19:42.928331+00:00",
+      "load_start": [
+        29.39111328125,
+        36.42822265625,
+        38.06591796875
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 6.592428630043287,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:19:49.520779+00:00",
+      "load_end": [
+        28.158203125,
+        36.0556640625,
+        37.9365234375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 6.0,
+      "sys_s": 0.57,
+      "max_rss_kib": 472448
+    },
+    {
+      "case": "flags",
+      "variant": "A",
+      "round": 3,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:19:49.524416+00:00",
+      "load_start": [
+        28.158203125,
+        36.0556640625,
+        37.9365234375
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 6.446936841006391,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:19:55.971380+00:00",
+      "load_end": [
+        25.74072265625,
+        35.279296875,
+        37.66357421875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 5.9,
+      "sys_s": 0.53,
+      "max_rss_kib": 472464
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "B",
+      "round": 1,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:59.364766+00:00",
+      "load_start": [
+        37.72900390625,
+        38.73583984375,
+        38.849609375
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 66.42325486399932,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:05.788063+00:00",
+      "load_end": [
+        23.4677734375,
+        34.47900390625,
+        37.37744140625
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 65.64,
+      "sys_s": 0.67,
+      "max_rss_kib": 342576
+    },
+    {
+      "case": "flags",
+      "variant": "B",
+      "round": 3,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:19:55.974910+00:00",
+      "load_start": [
+        25.74072265625,
+        35.279296875,
+        37.66357421875
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 15.438219956005923,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:11.413159+00:00",
+      "load_end": [
+        22.46923828125,
+        34.0888671875,
+        37.2353515625
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 14.99,
+      "sys_s": 0.42,
+      "max_rss_kib": 343624
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "B",
+      "round": 1,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:18:49.602361+00:00",
+      "load_start": [
+        39.04638671875,
+        39.01708984375,
+        38.9404296875
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 91.63943276304053,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:21.241827+00:00",
+      "load_end": [
+        20.4716796875,
+        33.2783203125,
+        36.93798828125
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 90.96,
+      "sys_s": 0.53,
+      "max_rss_kib": 344644
+    },
+    {
+      "case": "flags",
+      "variant": "B",
+      "round": 4,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:11.416861+00:00",
+      "load_start": [
+        22.46923828125,
+        34.0888671875,
+        37.2353515625
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 15.484196118020918,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:26.901085+00:00",
+      "load_end": [
+        19.6328125,
+        32.8916015625,
+        36.79296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 15.06,
+      "sys_s": 0.39,
+      "max_rss_kib": 342664
+    },
+    {
+      "case": "flags",
+      "variant": "A",
+      "round": 4,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:26.904849+00:00",
+      "load_start": [
+        19.6328125,
+        32.8916015625,
+        36.79296875
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 6.142849478987046,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:33.047727+00:00",
+      "load_end": [
+        18.94140625,
+        32.52783203125,
+        36.654296875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 5.59,
+      "sys_s": 0.54,
+      "max_rss_kib": 472476
+    },
+    {
+      "case": "flags",
+      "variant": "A",
+      "round": 5,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:33.051350+00:00",
+      "load_start": [
+        18.94140625,
+        32.52783203125,
+        36.654296875
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 6.113424795970786,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:39.164803+00:00",
+      "load_end": [
+        18.06494140625,
+        32.12060546875,
+        36.5
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 5.57,
+      "sys_s": 0.53,
+      "max_rss_kib": 472432
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "B",
+      "round": 2,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:05.791095+00:00",
+      "load_start": [
+        23.4677734375,
+        34.47900390625,
+        37.37744140625
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 41.42272628296632,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:47.213847+00:00",
+      "load_end": [
+        16.59716796875,
+        31.34228515625,
+        36.19970703125
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 40.88,
+      "sys_s": 0.47,
+      "max_rss_kib": 342604
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "A",
+      "round": 2,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:47.216624+00:00",
+      "load_start": [
+        16.59716796875,
+        31.34228515625,
+        36.19970703125
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 6.301406037004199,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:53.518045+00:00",
+      "load_end": [
+        16.14892578125,
+        31.00439453125,
+        36.06396484375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 5.76,
+      "sys_s": 0.52,
+      "max_rss_kib": 471528
+    },
+    {
+      "case": "flags",
+      "variant": "B",
+      "round": 5,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:39.168417+00:00",
+      "load_start": [
+        18.06494140625,
+        32.12060546875,
+        36.5
+      ],
+      "query_sha256": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+      "wall_s": 15.339276009995956,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:54.507722+00:00",
+      "load_end": [
+        16.14892578125,
+        31.00439453125,
+        36.06396484375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 14.88,
+      "sys_s": 0.42,
+      "max_rss_kib": 343612
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "A",
+      "round": 3,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:53.521031+00:00",
+      "load_start": [
+        16.14892578125,
+        31.00439453125,
+        36.06396484375
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 6.4073436739854515,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:20:59.928391+00:00",
+      "load_end": [
+        15.576171875,
+        30.638671875,
+        35.91845703125
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 5.84,
+      "sys_s": 0.54,
+      "max_rss_kib": 471540
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "B",
+      "round": 3,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:59.931403+00:00",
+      "load_start": [
+        15.576171875,
+        30.638671875,
+        35.91845703125
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 41.3781260640244,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:21:41.309545+00:00",
+      "load_end": [
+        12.82080078125,
+        27.76220703125,
+        34.69140625
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 40.83,
+      "sys_s": 0.47,
+      "max_rss_kib": 341612
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "B",
+      "round": 2,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:20:21.245363+00:00",
+      "load_start": [
+        20.4716796875,
+        33.2783203125,
+        36.93798828125
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 85.69616125896573,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:21:46.941543+00:00",
+      "load_end": [
+        12.2744140625,
+        27.40087890625,
+        34.537109375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 85.02,
+      "sys_s": 0.54,
+      "max_rss_kib": 344632
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "A",
+      "round": 2,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:21:46.945225+00:00",
+      "load_start": [
+        12.2744140625,
+        27.40087890625,
+        34.537109375
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 1.7521595019497909,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:21:48.697406+00:00",
+      "load_end": [
+        12.2744140625,
+        27.40087890625,
+        34.537109375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 1.45,
+      "sys_s": 0.29,
+      "max_rss_kib": 393440
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "A",
+      "round": 3,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:21:48.700910+00:00",
+      "load_start": [
+        12.2744140625,
+        27.40087890625,
+        34.537109375
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 1.732408621988725,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:21:50.433337+00:00",
+      "load_end": [
+        11.8515625,
+        27.06201171875,
+        34.38916015625
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 1.43,
+      "sys_s": 0.29,
+      "max_rss_kib": 393184
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "B",
+      "round": 4,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:21:41.312326+00:00",
+      "load_start": [
+        12.82080078125,
+        27.76220703125,
+        34.69140625
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 41.2931871030014,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:22:22.605529+00:00",
+      "load_end": [
+        9.6376953125,
+        25.07763671875,
+        33.4951171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 40.75,
+      "sys_s": 0.47,
+      "max_rss_kib": 342652
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "A",
+      "round": 4,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:22:22.608555+00:00",
+      "load_start": [
+        9.6376953125,
+        25.07763671875,
+        33.4951171875
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 6.226929933996871,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:22:28.835499+00:00",
+      "load_end": [
+        9.26611328125,
+        24.744140625,
+        33.341796875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 5.65,
+      "sys_s": 0.55,
+      "max_rss_kib": 471536
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "A",
+      "round": 5,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:22:28.838557+00:00",
+      "load_start": [
+        9.26611328125,
+        24.744140625,
+        33.341796875
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 6.281063073023688,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:22:35.119636+00:00",
+      "load_end": [
+        9.16455078125,
+        24.4658203125,
+        33.20556640625
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 5.73,
+      "sys_s": 0.53,
+      "max_rss_kib": 471608
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "B",
+      "round": 3,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:21:50.436871+00:00",
+      "load_start": [
+        11.8515625,
+        27.06201171875,
+        34.38916015625
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 129.27869159303373,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:23:59.715589+00:00",
+      "load_end": [
+        42.5400390625,
+        30.8056640625,
+        34.62353515625
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 128.37,
+      "sys_s": 0.62,
+      "max_rss_kib": 344836
+    },
+    {
+      "case": "flags-dump-7",
+      "variant": "B",
+      "round": 5,
+      "cpu": 37,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-7/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "37",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:22:35.122732+00:00",
+      "load_start": [
+        9.16455078125,
+        24.4658203125,
+        33.20556640625
+      ],
+      "query_sha256": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+      "wall_s": 234.4996287850081,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:26:29.622388+00:00",
+      "load_end": [
+        54.35205078125,
+        40.86865234375,
+        37.8828125
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 232.62,
+      "sys_s": 1.0,
+      "max_rss_kib": 342636
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "B",
+      "round": 4,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:23:59.721628+00:00",
+      "load_start": [
+        42.5400390625,
+        30.8056640625,
+        34.62353515625
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 241.2419569939957,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:28:00.963618+00:00",
+      "load_end": [
+        41.34765625,
+        40.8212890625,
+        38.20458984375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 239.67,
+      "sys_s": 0.87,
+      "max_rss_kib": 344608
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "A",
+      "round": 4,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:28:00.966793+00:00",
+      "load_start": [
+        41.34765625,
+        40.8212890625,
+        38.20458984375
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 1.8328899750486016,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:28:02.799699+00:00",
+      "load_end": [
+        41.34765625,
+        40.8212890625,
+        38.20458984375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 1.5,
+      "sys_s": 0.31,
+      "max_rss_kib": 394232
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "A",
+      "round": 5,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:28:02.803067+00:00",
+      "load_start": [
+        41.34765625,
+        40.8212890625,
+        38.20458984375
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 1.8836966120288707,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:28:04.686781+00:00",
+      "load_end": [
+        41.34765625,
+        40.8212890625,
+        38.20458984375
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 1.56,
+      "sys_s": 0.31,
+      "max_rss_kib": 393244
+    },
+    {
+      "case": "flags-dump-11",
+      "variant": "B",
+      "round": 5,
+      "cpu": 17,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/flags-dump-11/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "17",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:28:04.690151+00:00",
+      "load_start": [
+        41.34765625,
+        40.8212890625,
+        38.20458984375
+      ],
+      "query_sha256": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+      "wall_s": 119.07848893100163,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:30:03.768667+00:00",
+      "load_end": [
+        39.2900390625,
+        37.30810546875,
+        37.0546875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 118.18,
+      "sys_s": 0.66,
+      "max_rss_kib": 344016
+    }
+  ]
+}

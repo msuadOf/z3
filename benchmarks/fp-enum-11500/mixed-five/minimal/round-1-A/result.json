@@ -1,0 +1,42 @@
+{
+  "case": "minimal",
+  "variant": "A",
+  "round": 1,
+  "cpu": 49,
+  "command": [
+    "/usr/bin/time",
+    "-f",
+    "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+    "-o",
+    "agents/branch_ablation_20261031/z3-alternative-prs/comparison-five/minimal/round-1-A/time.json",
+    "taskset",
+    "-c",
+    "49",
+    "agents/branch_ablation_20261031/z3-alternative-prs/A-revised/z3",
+    "-t:7200000",
+    "-in"
+  ],
+  "started_utc": "2026-11-01T04:18:47.110525+00:00",
+  "load_start": [
+    39.04638671875,
+    39.01708984375,
+    38.9404296875
+  ],
+  "query_sha256": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+  "wall_s": 1.137943709967658,
+  "exit": 0,
+  "external_timeout": false,
+  "ended_utc": "2026-11-01T04:18:48.248485+00:00",
+  "load_end": [
+    39.04638671875,
+    39.01708984375,
+    38.9404296875
+  ],
+  "statuses": [
+    "sat"
+  ],
+  "pass": true,
+  "user_s": 0.88,
+  "sys_s": 0.23,
+  "max_rss_kib": 48292
+}

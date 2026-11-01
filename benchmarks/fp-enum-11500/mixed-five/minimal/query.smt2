@@ -1,0 +1,6 @@
+(declare-const x (_ FloatingPoint 8 24))
+(declare-datatypes () ((Mode A B C D E F)))
+(declare-const mode Mode)
+(assert (= mode F))
+(assert (fp.isNaN (fp.sqrt roundNearestTiesToAway x)))
+(check-sat-using default)

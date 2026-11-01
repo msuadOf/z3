@@ -1,0 +1,1978 @@
+{
+  "updated_utc": "2026-11-01T04:40:37.013676+00:00",
+  "completed": 40,
+  "total": 40,
+  "all_pass": true,
+  "cases": {
+    "enum-6-64": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.06440436700358987,
+          0.040372226969338953,
+          0.03881849703611806,
+          0.03919967502588406,
+          0.03838877897942439
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.03919967502588406,
+        "mean_s": 0.044236709002871064,
+        "range_s": [
+          0.03838877897942439,
+          0.06440436700358987
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.02970560995163396,
+          0.031340990972239524,
+          0.03014729800634086,
+          0.027767042047344148,
+          0.028163359966129065
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.02970560995163396,
+        "mean_s": 0.029424860188737512,
+        "range_s": [
+          0.027767042047344148,
+          0.031340990972239524
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 0.7578024545361397
+    },
+    "enum-6-256": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.08922130102291703,
+          0.06334089598385617,
+          0.06667404103791341,
+          0.05803402198944241,
+          0.059986009960994124
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.06334089598385617,
+        "mean_s": 0.06745125399902463,
+        "range_s": [
+          0.05803402198944241,
+          0.08922130102291703
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.04734661401016638,
+          0.047291172959376127,
+          0.04882090300088748,
+          0.04180487495614216,
+          0.043029378983192146
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.047291172959376127,
+        "mean_s": 0.04565858878195286,
+        "range_s": [
+          0.04180487495614216,
+          0.04882090300088748
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 0.7466135776075749
+    },
+    "enum-6-512": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.12529727502260357,
+          0.07601684296969324,
+          0.07008664699969813,
+          0.06786593399010599,
+          0.06389911699807271
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.07008664699969813,
+        "mean_s": 0.08063316319603472,
+        "range_s": [
+          0.06389911699807271,
+          0.12529727502260357
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.057439730037003756,
+          0.06270546303130686,
+          0.04334041499532759,
+          0.04563508997671306,
+          0.04443949699634686
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.04563508997671306,
+        "mean_s": 0.05071203900733963,
+        "range_s": [
+          0.04334041499532759,
+          0.06270546303130686
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 0.6511238863646824
+    },
+    "enum-6-1024": {
+      "A": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.13720409700181335,
+          0.10101957095321268,
+          0.09169009904144332,
+          0.08347370801493526,
+          0.07610290497541428
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.09169009904144332,
+        "mean_s": 0.09789807599736378,
+        "range_s": [
+          0.07610290497541428,
+          0.13720409700181335
+        ]
+      },
+      "B": {
+        "completed": 5,
+        "passed": 5,
+        "wall_s": [
+          0.06982550298562273,
+          0.06368038203800097,
+          0.05228617001557723,
+          0.051323911000508815,
+          0.048850554041564465
+        ],
+        "statuses": [
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ],
+          [
+            "sat"
+          ]
+        ],
+        "median_s": 0.05228617001557723,
+        "mean_s": 0.057193304016254845,
+        "range_s": [
+          0.048850554041564465,
+          0.06982550298562273
+        ]
+      },
+      "complete": true,
+      "B_over_A_median_ratio": 0.5702488116186266
+    }
+  },
+  "runs": [
+    {
+      "case": "enum-6-64",
+      "variant": "A",
+      "round": 1,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.218012+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.06440436700358987,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.282458+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 43164
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 1,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.218430+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.08922130102291703,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.307674+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.04,
+      "max_rss_kib": 44204
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "B",
+      "round": 1,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.284424+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.02970560995163396,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.314153+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.0,
+      "sys_s": 0.02,
+      "max_rss_kib": 39036
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "A",
+      "round": 1,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.218813+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.12529727502260357,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.344132+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.04,
+      "sys_s": 0.05,
+      "max_rss_kib": 45212
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "B",
+      "round": 2,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.316026+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.031340990972239524,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.347389+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.0,
+      "sys_s": 0.02,
+      "max_rss_kib": 38156
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "A",
+      "round": 1,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-1-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.219354+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.13720409700181335,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.356569+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.05,
+      "sys_s": 0.05,
+      "max_rss_kib": 46344
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 1,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.309374+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.04734661401016638,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.356732+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 39032
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "A",
+      "round": 2,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.349431+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.040372226969338953,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.389825+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.0,
+      "sys_s": 0.03,
+      "max_rss_kib": 43320
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "B",
+      "round": 1,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.345845+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.057439730037003756,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.403296+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 39084
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 2,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.359770+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.047291172959376127,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.407072+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 39016
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "B",
+      "round": 1,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-1-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.359106+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.06982550298562273,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.428944+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.03,
+      "max_rss_kib": 41152
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "A",
+      "round": 3,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.391770+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.03881849703611806,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.430611+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 43184
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "B",
+      "round": 3,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.432793+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.03014729800634086,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.462963+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.0,
+      "sys_s": 0.02,
+      "max_rss_kib": 39008
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "B",
+      "round": 2,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.404841+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.06270546303130686,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.467557+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.04,
+      "max_rss_kib": 40056
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 2,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.408403+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.06334089598385617,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.471755+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.03,
+      "max_rss_kib": 44176
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "B",
+      "round": 4,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.464957+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.027767042047344148,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.492762+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.0,
+      "sys_s": 0.01,
+      "max_rss_kib": 38068
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "B",
+      "round": 2,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-2-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.430365+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.06368038203800097,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.494057+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.03,
+      "max_rss_kib": 40256
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "A",
+      "round": 4,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.495232+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.03919967502588406,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.534455+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.0,
+      "sys_s": 0.02,
+      "max_rss_kib": 43180
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 3,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.473052+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.06667404103791341,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.539737+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.03,
+      "max_rss_kib": 44208
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "A",
+      "round": 2,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.469238+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.07601684296969324,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.545265+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.04,
+      "max_rss_kib": 45216
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "A",
+      "round": 5,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.536597+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.03838877897942439,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.575012+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 43152
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 3,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.541526+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.04882090300088748,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.590359+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 39016
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "A",
+      "round": 2,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-2-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.496218+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.10101957095321268,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.597255+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.04,
+      "sys_s": 0.05,
+      "max_rss_kib": 46244
+    },
+    {
+      "case": "enum-6-64",
+      "variant": "B",
+      "round": 5,
+      "cpu": 33,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-64/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "33",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.577233+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+      "wall_s": 0.028163359966129065,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.605422+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.0,
+      "sys_s": 0.01,
+      "max_rss_kib": 39052
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "A",
+      "round": 3,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.546681+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.07008664699969813,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.616779+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.04,
+      "max_rss_kib": 45172
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 4,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.592082+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.04180487495614216,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.633897+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 39040
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "B",
+      "round": 3,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.618649+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.04334041499532759,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.662000+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 40088
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "A",
+      "round": 3,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-3-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.599470+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.09169009904144332,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.691183+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.04,
+      "sys_s": 0.04,
+      "max_rss_kib": 46288
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 4,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.635346+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.05803402198944241,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.693392+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.03,
+      "max_rss_kib": 44216
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "B",
+      "round": 4,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.663570+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.04563508997671306,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.709215+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 39040
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "B",
+      "round": 3,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-3-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.693587+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.05228617001557723,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.745885+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.03,
+      "max_rss_kib": 41104
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "A",
+      "round": 5,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.695378+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.059986009960994124,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.755374+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.03,
+      "max_rss_kib": 44160
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "A",
+      "round": 4,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.710850+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.06786593399010599,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.778727+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.03,
+      "max_rss_kib": 45172
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "B",
+      "round": 4,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-4-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.747443+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.051323911000508815,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.798776+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 41108
+    },
+    {
+      "case": "enum-6-256",
+      "variant": "B",
+      "round": 5,
+      "cpu": 47,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-256/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "47",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.756797+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+      "wall_s": 0.043029378983192146,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.799837+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 39088
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "A",
+      "round": 5,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.780422+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.06389911699807271,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.844331+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.03,
+      "sys_s": 0.02,
+      "max_rss_kib": 45144
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "A",
+      "round": 4,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-4-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.801117+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.08347370801493526,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.884602+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.04,
+      "sys_s": 0.03,
+      "max_rss_kib": 46260
+    },
+    {
+      "case": "enum-6-512",
+      "variant": "B",
+      "round": 5,
+      "cpu": 49,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "49",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.845930+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+      "wall_s": 0.04443949699634686,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.890381+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.01,
+      "sys_s": 0.02,
+      "max_rss_kib": 40092
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "A",
+      "round": 5,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-5-A/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-a/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.886178+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.07610290497541428,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:36.962292+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.04,
+      "sys_s": 0.03,
+      "max_rss_kib": 46200
+    },
+    {
+      "case": "enum-6-1024",
+      "variant": "B",
+      "round": 5,
+      "cpu": 52,
+      "command": [
+        "/usr/bin/time",
+        "-f",
+        "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+        "-o",
+        "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-1024/round-5-B/time.json",
+        "taskset",
+        "-c",
+        "52",
+        "agents/branch_ablation_20261031/z3-alternative-prs/z3-b/build/z3",
+        "-t:7200000",
+        "-in"
+      ],
+      "started_utc": "2026-11-01T04:40:36.964160+00:00",
+      "load_start": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "query_sha256": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+      "wall_s": 0.048850554041564465,
+      "exit": 0,
+      "external_timeout": false,
+      "ended_utc": "2026-11-01T04:40:37.013021+00:00",
+      "load_end": [
+        39.81884765625,
+        47.22998046875,
+        43.5576171875
+      ],
+      "statuses": [
+        "sat"
+      ],
+      "pass": true,
+      "user_s": 0.02,
+      "sys_s": 0.02,
+      "max_rss_kib": 41076
+    }
+  ]
+}

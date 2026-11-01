@@ -1,0 +1,42 @@
+{
+  "case": "enum-6-512",
+  "variant": "B",
+  "round": 2,
+  "cpu": 49,
+  "command": [
+    "/usr/bin/time",
+    "-f",
+    "{\"user_s\":%U,\"sys_s\":%S,\"max_rss_kib\":%M}",
+    "-o",
+    "agents/branch_ablation_20261031/z3-alternative-prs/enum-six-five/enum-6-512/round-2-B/time.json",
+    "taskset",
+    "-c",
+    "49",
+    "agents/branch_ablation_20261031/z3-alternative-prs/B/z3",
+    "-t:7200000",
+    "-in"
+  ],
+  "started_utc": "2026-11-01T04:40:36.404841+00:00",
+  "load_start": [
+    39.81884765625,
+    47.22998046875,
+    43.5576171875
+  ],
+  "query_sha256": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+  "wall_s": 0.06270546303130686,
+  "exit": 0,
+  "external_timeout": false,
+  "ended_utc": "2026-11-01T04:40:36.467557+00:00",
+  "load_end": [
+    39.81884765625,
+    47.22998046875,
+    43.5576171875
+  ],
+  "statuses": [
+    "sat"
+  ],
+  "pass": true,
+  "user_s": 0.02,
+  "sys_s": 0.04,
+  "max_rss_kib": 40056
+}

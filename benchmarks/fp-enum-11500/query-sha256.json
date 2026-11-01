@@ -1,0 +1,14 @@
+{
+  "enum-six-five/enum-6-1024/query.smt2": "1bb102d244e2e739f312700bb1733298ca03a19514defb4e3d368e68687a21f5",
+  "enum-six-five/enum-6-256/query.smt2": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+  "enum-six-five/enum-6-512/query.smt2": "7e2c0e0c7832a2d13843126ac5567a31cd3b5face3492a6702b6f5ef1d831f4b",
+  "enum-six-five/enum-6-64/query.smt2": "c196991b7ff4dd3cf69a9f6fbc7f7d851ccfe64017f27caa4ee1ce56fa73fde9",
+  "mixed-five/enum-1024-256/query.smt2": "c305fbdd3507ab7154969a85b3b9cccd88afb54d200d2a44a82b11fae62fe460",
+  "mixed-five/enum-512-256/query.smt2": "fb4cb6782b733679c6c3fe990a778358f18fb07a47a8ca592f825f583195efda",
+  "mixed-five/enum-6-256/query.smt2": "26f078d60b29eca5f487ecf84230256171cae951bcd8edea649f0c7f14be5863",
+  "mixed-five/flags/query.smt2": "3f565f0c5e0defc194cc85934888a79a9d5cc1e3e099e2d5da9030feef85909c",
+  "mixed-five/flags-dump-11/query.smt2": "4ba8332822288e7e39d6f32a974aedf3285c100eefe4935bcf64a17bd7e863f0",
+  "mixed-five/flags-dump-7/query.smt2": "ca0bbcfd8e8f19313147ed645119d143bc5b85eb35ae766f4165ce349cbb0b14",
+  "mixed-five/minimal/query.smt2": "99a91dd6a02520d7c864a7a3e71b9c1fff16cf7df8a4fff3e606bfc0c7e5a75d",
+  "mixed-five/nan/query.smt2": "55e6af792bb46c2e3432109d08bc34cf328a1211b3033893bd38647d6214dce7"
+}
