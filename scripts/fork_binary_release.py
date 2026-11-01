@@ -82,7 +82,7 @@ def main():
         elif args.platform.startswith("linux-"):
             configure += ["-DCMAKE_INSTALL_RPATH=$ORIGIN/../lib"]
         run(*configure)
-        run("cmake", "--build", build, "--config", "Release", "--target", "z3", "libz3", "test-z3",
+        run("cmake", "--build", build, "--config", "Release", "--target", "shell", "libz3", "test-z3",
             "--parallel", min(os.cpu_count() or 2, 4))
     test = build / ("Release/test-z3.exe" if args.platform.startswith("windows-") else "test-z3")
     run(test, "fpa", timeout=600)
