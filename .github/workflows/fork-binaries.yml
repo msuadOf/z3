@@ -81,7 +81,7 @@ jobs:
           cat > ../release-notes.md <<EOF
           Precompiled native Z3 packages from source commit ${SOURCE_SHA}.
 
-          Includes the fork's finite-enum preprocessing strategy (alternative A).
+          Includes the upstream-preferred enum-aware QFFP strategy (PR #11506).
           Packages contain the command-line solver, shared library, C/C++ headers,
           CMake/pkg-config integration, license and build provenance.
 

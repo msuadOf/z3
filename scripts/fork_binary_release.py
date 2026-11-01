@@ -92,7 +92,7 @@ def main():
         "repository": os.environ.get("GITHUB_REPOSITORY", "msuadOf/z3"),
         "source_commit": sha, "platform": args.platform, "system": platform.platform(),
         "run_id": os.environ.get("GITHUB_RUN_ID"), "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT"),
-        "configuration": "Release", "strategy": "A: finite-enum preprocessing before default dispatch",
+        "configuration": "Release", "strategy": "Enum-aware QFFP probe with dt2bv inside QFFP (upstream PR #11506)",
     }, indent=2) + "\n")
     windows = args.platform.startswith("windows-")
     archive = Path(shutil.make_archive(str(dist / name), "zip" if windows else "gztar",
